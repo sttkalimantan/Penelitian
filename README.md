@@ -8,7 +8,7 @@ html
     <h1>Repositori Sekolah Tinggi Teologi Kalimantan</h1>
     <p>Anda dapat mengakses repositori perguruan tinggi Sekolah Tinggi Teologi Kalimantan melalui link berikut:</p>
     <ul>
-      <li><a href="http://repositori.sttkalimantan.ac.id">Repositori E-Journal STT Kalimantan</a></li>
+      <li><a href="http://sttkalimantan.ac.id/e-journal/index.php">Repositori E-Journal STT Kalimantan</a></li>
     </ul>
   </body>
 </html>
