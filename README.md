@@ -1,3 +1,2 @@
-# Repositori STT Kalimantan
-<h2>Sekolah Tinggi Teologi Kalimantan Pontianak</h2>
+# Repositori STT Kalimantan Pontianak
 Repositori ini berisi Thesis, Skripsi, Bahan Ajar dan Artikel-artikel Pendek semoga bermanfaat  
